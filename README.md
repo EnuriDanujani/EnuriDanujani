@@ -29,8 +29,8 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/EnuriDanujani
-- LinkedIn: Add your LinkedIn link here
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/enuri-danujani-a1ba21283
+- Email: enuridanujani2000@gmail.com
 
 ---
 
