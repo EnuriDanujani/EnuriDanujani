@@ -35,3 +35,9 @@
 ---
 
 ⭐ “Turning ideas into code and learning something new every day.”
+
+## 🔥 GitHub Stats
+
+![Enuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnuriDanujani&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnuriDanujani&layout=compact&theme=tokyonight)
