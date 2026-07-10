@@ -12,7 +12,7 @@
 
 - 💻 Languages: C, C++, Java, JavaScript, Python
 - 🌐 Web: HTML, CSS, Node.js, Express.js
-- 🗄️ Database: MySQL
+- 🗄️ Database: MySQL,MongoDB
 - ⚙️ Tools: Git, GitHub, VS Code
 
 ---
